@@ -5,13 +5,6 @@
 		<display-name lang="th">MIUCAST</display-name>
 	</channel>
 
-	<programme start="20260822120000 +0700" stop="20260823000000 +0700" channel="EPG.null">
-		<title lang="th">ไม่พบข้อมูล</title>
-	</programme>
-	<programme start="20260823000000 +0700" stop="20260823120000 +0700" channel="EPG.null">
-		<title lang="th">ไม่พบข้อมูล</title>
-	</programme>
-
 	<programme start="20260823120000 +0700" stop="20260824000000 +0700" channel="EPG.null">
 		<title lang="th">ไม่พบข้อมูล</title>
 	</programme>
@@ -212,6 +205,13 @@
 		<title lang="th">ไม่พบข้อมูล</title>
 	</programme>
 	<programme start="20260921000000 +0700" stop="20260921120000 +0700" channel="EPG.null">
+		<title lang="th">ไม่พบข้อมูล</title>
+	</programme>
+
+	<programme start="20260921120000 +0700" stop="20260922000000 +0700" channel="EPG.null">
+		<title lang="th">ไม่พบข้อมูล</title>
+	</programme>
+	<programme start="20260922000000 +0700" stop="20260922120000 +0700" channel="EPG.null">
 		<title lang="th">ไม่พบข้อมูล</title>
 	</programme>
 
