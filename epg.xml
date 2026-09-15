@@ -5,13 +5,6 @@
 		<display-name lang="th">MIUCAST</display-name>
 	</channel>
 
-	<programme start="20260914120000 +0700" stop="20260915000000 +0700" channel="EPG.null">
-		<title lang="th">MIUCAST EPG</title>
-	</programme>
-	<programme start="20260915000000 +0700" stop="20260915120000 +0700" channel="EPG.null">
-		<title lang="th">MIUCAST EPG</title>
-	</programme>
-
 	<programme start="20260915120000 +0700" stop="20260916000000 +0700" channel="EPG.null">
 		<title lang="th">MIUCAST EPG</title>
 	</programme>
@@ -212,6 +205,13 @@
 		<title lang="th">MIUCAST EPG</title>
 	</programme>
 	<programme start="20261014000000 +0700" stop="20261014120000 +0700" channel="EPG.null">
+		<title lang="th">MIUCAST EPG</title>
+	</programme>
+
+	<programme start="20261014120000 +0700" stop="20261015000000 +0700" channel="EPG.null">
+		<title lang="th">MIUCAST EPG</title>
+	</programme>
+	<programme start="20261015000000 +0700" stop="20261015120000 +0700" channel="EPG.null">
 		<title lang="th">MIUCAST EPG</title>
 	</programme>
 
