@@ -20,7 +20,7 @@ def generate_epg(days_count=30, output_path="epg.xml.gz"):
             "desc": "MIUCAST의 IPTV 서비스"
         },
         {
-            "id": "EPG.zh", "name": "MIUCAST-ZH", "lang": "zh-Hans",
+            "id": "EPG.zh", "name": "MIUCAST-CN", "lang": "zh-Hans",
             "title": "MIUCAST 节目表", 
             "desc": "来自 MIUCAST 的 IPTV 服务"
         },
@@ -28,6 +28,11 @@ def generate_epg(days_count=30, output_path="epg.xml.gz"):
             "id": "EPG.tw", "name": "MIUCAST-TW", "lang": "zh-Hant",
             "title": "MIUCAST 節目表", 
             "desc": "來自 MIUCAST 的 IPTV 服務"
+        },
+        {
+            "id": "EPG.jp", "name": "MIUCAST-CN", "lang": "zh-Hans",
+            "title": "ミユカスト EPG", 
+            "desc": "MIUCAST からのIPTVサービス"
         }
     ]
     
