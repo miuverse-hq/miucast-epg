@@ -30,7 +30,7 @@ def generate_epg(days_count=30, output_path="epg.xml.gz"):
             "desc": "來自 MIUCAST 的 IPTV 服務"
         },
         {
-            "id": "EPG.jp", "name": "MIUCAST-CN", "lang": "zh-Hans",
+            "id": "EPG.jp", "name": "MIUCAST-JP", "lang": "zh-Hans",
             "title": "ミユカスト EPG", 
             "desc": "MIUCAST からのIPTVサービス"
         }
